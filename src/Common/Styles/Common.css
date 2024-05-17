@@ -1,0 +1,40 @@
+
+.image{
+  display: flex;
+  height: 80px;
+
+  padding: 10px;
+  margin: 10px; 
+  justify-content: center;
+ 
+  
+ }
+
+.discount{
+
+  text-align: center;
+}
+.title{
+  text-align: center;
+ 
+}
+
+
+/* .pp-products{
+ margin: 20px;
+} */ 
+
+/* .product-container{
+  height: 150px;
+} */
+
+
+ 
+
+
+
+
+
+
+
+
